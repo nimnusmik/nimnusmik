@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Carbon-Neutral Energy Forecasting: Residential Power Consumption in Seoul (2030–2050)**
 
-- 🌱 I’m currently learning **Forcesting model,**
+- 🌱 I’m currently learning **Predicting the future, assessing risks, and making data-driven decisions using machine learning.**
 
 - 📝 I regularly write articles on [https://bunnysideup.tistory.com](https://bunnysideup.tistory.com)
 
