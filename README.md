@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SeonminKim</h1>
+<h1 align="center">SeonminKim</h1>
 <h3 align="center">A passionate Machine Learning developer for public policy</h3>
 
 - 🔭 I’m currently working on **Carbon-Neutral Energy Forecasting: Residential Power Consumption in Seoul (2030–2050)**
