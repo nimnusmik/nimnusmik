@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻Hi, My name is SeonminKim</h1>
+<h1 align="center">👋🏻Hi, My name is SunminKim, call me Sunny 🌞</h1>
 <h3 align="center">A passionate Machine Learning developer for public policy</h3>
 
 - 📝 I regularly write articles on [https://bunnysideup.tistory.com](https://bunnysideup.tistory.com)
