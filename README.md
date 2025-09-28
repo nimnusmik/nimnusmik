@@ -1,5 +1,6 @@
-<h1 align="center">👋🏻 Hi, Data Scientist & ML Engineer who turns data into business impact </h1>
-
+<h1 align="center">👋🏻 Hi, I'm Sunmin Kim</h1>
+<h2 align="center">Data Scientist & ML Engineer</h2>
+<p align="center"><i>Transforming data into actionable business solutions</i></p>
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Tech%20Blog-velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@artemise227/posts)
