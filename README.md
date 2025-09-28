@@ -1,5 +1,4 @@
-<h1 align="center">👋🏻 Hi, I'm Sunmin Kim</h1>
-<h2 align="center">Data Scientist & ML Engineer who turns data into business impact</h2> 
+<h1 align="center">👋🏻 Hi, Data Scientist & ML Engineer who turns data into business impact </h1>
 
 <div align="center">
 
