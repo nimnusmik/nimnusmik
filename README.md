@@ -8,17 +8,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnykimm12/)
 
 </div>
-
-
 <br>
 
 ## 🎯 About Me
 
-> 퍼포먼스 마케팅 인턴 경험을 통해 데이터가 비즈니스 가치로 전환되는 순간을 목격한 후, 
-> 데이터의 숨겨진 패턴을 찾아내는 것에 열정을 가진 데이터 사이언티스트입니다.
+> My journey began during a performance marketing internship where I experienced **the transformative moment when data becomes business value**. This ignited my passion for uncovering hidden patterns across **multiple domains and industries**.
 > 
-> **End-to-End ML Pipeline** 구축부터 **실제 비즈니스 임팩트** 창출까지, 
-> 데이터로 세상을 더 나은 곳으로 만들어가고 있습니다.
+> From **public transportation systems** to **enterprise marketing analytics**, from **industrial IoT sensors** to **urban planning data** - I thrive on the challenge of applying data science to solve diverse, real-world problems.
+> 
+> Specializing in **End-to-End ML Pipelines**, I'm dedicated to delivering **measurable business impact** and creating positive change through cross-domain data solutions.
 
 ## 📊 Data Domains & ML Experience
 
