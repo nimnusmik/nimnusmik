@@ -1,9 +1,32 @@
-<h1 align="center">👋🏻Hi, My name is SunminKim, call me Sunny 🌞</h1>
-<h3 align="center">A passionate Data Analysist & AI/ML engineer who turns curiosity into business solutions</h3>
+<h1 align="center">👋🏻 Hi, I'm Sunmin Kim</h1>
+<h2 align="center">Data Scientist & ML Engineer who turns data into business impact</h2> 
 
-- 📝 I regularly write articles on [https://velog.io/@artemise227/posts](https://velog.io/@artemise227/posts)
+<br>
 
-- 📫 How to reach me **kimsunmin0227@gmail.com**
+- 📝 **Blog:** [velog.io/@artemise227](https://velog.io/@artemise227/posts)
+- 📫 **Email:** kimsunmin0227@gmail.com
+
+<br>
+
+<h2 align="left">Data Domains & ML Experience:</h3>
+
+**🏛️ Public Data:**
+- Seoul Transportation & Regional Business Data
+- Smart Data of Things (S-DoT) Urban Sensor Data  
+- Real Estate & Housing Price Analytics
+
+**🏢 Enterprise Data:**
+- Marketing CTR Analytics (Toss), Delivery Optimization (Amazon)
+- Industrial IoT Sensor Data (Hyundai Solutions Construction Equipment)
+- Citizen Lifestyle Analytics (SKT Telecom)
+
+**📊 Additional Projects:**
+- Document Image Processing, Movie Content Analytics (TMDB API)
+
+**🤖 ML/DL Techniques:**
+- **ML:** Linear/Logistic Regression, XGBoost, CatBoost, Random Forest, KNN
+- **DL:** Computer Vision, NLP, Recommendation Systems
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +44,13 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="100" height="100"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="100" height="100"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="100" height="100"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/> </a>
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src=""https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji.png" alt="airflow" width="100" height="100"/> </a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="100" height="100"/> </a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e3ce2f02-4c22-49d1-8a47-f0a017902824" alt="airflow" width="100" height="100"/> </a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="mlflow" width="100" height="100"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="100" height="100"/> 
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" alt="notion" width="100" height="100"/> </a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="100" height="100"/> </a>
+ </a>
 </p>
+
+
+
+
