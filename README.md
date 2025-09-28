@@ -20,6 +20,28 @@
 > **End-to-End ML Pipeline** 구축부터 **실제 비즈니스 임팩트** 창출까지, 
 > 데이터로 세상을 더 나은 곳으로 만들어가고 있습니다.
 
+## 📊 Data Domains & ML Experience
+
+### 🏛️ Public Data
+- **Seoul Transportation & Regional Business Data** - 지하철 요금 정책 개선으로 34% 적자 개선 제안
+- **Smart Data of Things (S-DoT) Urban Sensor Data** - 서울시 IoT 센서 기반 도시 분석
+- **Real Estate & Housing Price Analytics** - 부동산 시장 트렌드 분석
+
+### 🏢 Enterprise Data
+- **Marketing CTR Analytics** (Toss) - 퍼포먼스 마케팅 최적화
+- **Delivery Optimization** (Amazon) - 배송 시간 예측 모델 개발
+- **Industrial IoT Sensor Data** (Hyundai Solutions) - 건설장비 상태 모니터링 AI
+- **Citizen Lifestyle Analytics** (SKT Telecom) - 시민 생활 패턴 분석
+
+### 📱 Additional Projects
+- **Document Image Processing** - OCR 및 문서 자동화
+- **Movie Content Analytics** (TMDB API) - 영화 추천 시스템
+
+### 🤖 ML/DL Techniques
+- **Traditional ML:** Linear/Logistic Regression, XGBoost, CatBoost, Random Forest, KNN
+- **Deep Learning:** Computer Vision, NLP, Recommendation Systems
+- **MLOps:** Docker, Airflow, MLflow, AWS를 활용한 End-to-End Pipeline
+
 <br>
 
 ## 🛠️ Tech Stack
@@ -49,28 +71,6 @@
 </p>
 
 <br>
-
-## 📊 Data Domains & ML Experience
-
-### 🏛️ Public Data
-- **Seoul Transportation & Regional Business Data** - 지하철 요금 정책 개선으로 34% 적자 개선 제안
-- **Smart Data of Things (S-DoT) Urban Sensor Data** - 서울시 IoT 센서 기반 도시 분석
-- **Real Estate & Housing Price Analytics** - 부동산 시장 트렌드 분석
-
-### 🏢 Enterprise Data
-- **Marketing CTR Analytics** (Toss) - 퍼포먼스 마케팅 최적화
-- **Delivery Optimization** (Amazon) - 배송 시간 예측 모델 개발
-- **Industrial IoT Sensor Data** (Hyundai Solutions) - 건설장비 상태 모니터링 AI
-- **Citizen Lifestyle Analytics** (SKT Telecom) - 시민 생활 패턴 분석
-
-### 📱 Additional Projects
-- **Document Image Processing** - OCR 및 문서 자동화
-- **Movie Content Analytics** (TMDB API) - 영화 추천 시스템
-
-### 🤖 ML/DL Techniques
-- **Traditional ML:** Linear/Logistic Regression, XGBoost, CatBoost, Random Forest, KNN
-- **Deep Learning:** Computer Vision, NLP, Recommendation Systems
-- **MLOps:** Docker, Airflow, MLflow, AWS를 활용한 End-to-End Pipeline
 
 
 
