@@ -69,15 +69,3 @@
 </p>
 
 <br>
-
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimnusmik&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimnusmik&layout=compact&theme=radical)
-
-</div>
