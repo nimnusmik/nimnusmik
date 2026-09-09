@@ -14,8 +14,8 @@
 
 **I turn messy data into decisions companies can act on.**
 
-- 📈 Most recently **Data Analytics Lead (Intern) @ Semo** (AI agent startup) — designed a GA4 metrics framework, built BigQuery reporting that **cut reporting time by 40%**, and ran beta experiments with 50+ users that **lifted engagement by 18%**
-- ⚙️ Previously **AX Engineer @ Global Vision** (manufacturing) — shipped internal automation end-to-end: real-time data pipelines, AI model serving, and an outbound call management platform **used daily by sales teams**
+- ⚙️ Most recently **AX Engineer @ Global Vision** (manufacturing, 2026) — shipped internal automation end-to-end: real-time data pipelines, AI model serving, and an outbound call management platform **used daily by sales teams**
+- 📈 Previously **Data Analytics Lead (Intern) @ Semo** (AI agent startup) — designed a GA4 metrics framework, built BigQuery reporting that **cut reporting time by 40%**, and ran beta experiments with 50+ users that **lifted engagement by 18%**
 - 🏆 **Minister of SMEs and Startups Award**, Korea (2023)
 - 🎓 Now at **USC** studying Applied Data Science — open to **Summer 2027 internships** in Data Engineering, BI, and Analytics
 
