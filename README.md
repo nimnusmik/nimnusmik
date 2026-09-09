@@ -1,8 +1,9 @@
 <h1 align="center">👋🏻 Hi, I'm Sunmin Kim</h1>
-<h2 align="center">Data Scientist & ML Engineer</h2>
-<p align="center"><i>Transforming data into actionable business solutions</i></p>
+<h2 align="center">Data Engineering & Analytics</h2>
+<p align="center"><i>M.S. Applied Data Science @ USC (Class of 2028) · Seeking Summer 2027 Data Engineering / BI Internship</i></p>
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-nimnusmik.github.io-990000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nimnusmik.github.io)
 [![Blog](https://img.shields.io/badge/Tech%20Blog-velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@artemise227/posts)
 [![Email](https://img.shields.io/badge/Email-kimsunmin0227@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsunmin0227@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnykimm12/)
