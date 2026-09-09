@@ -58,13 +58,6 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nimnusmik&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimnusmik&layout=compact&hide_border=true&langs_count=6" height="160"/>
-</div>
-
 ---
 
 <p align="center"><i>📎 Full portfolio at <a href="https://nimnusmik.github.io">nimnusmik.github.io</a> — I reply fast: kimsunmin0227@gmail.com</i></p>
