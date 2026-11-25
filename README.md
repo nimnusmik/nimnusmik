@@ -16,6 +16,7 @@
 
 - ⚙️ **Data Engineer @ Global Vision** (2026): built the company's first ETL. A colleague used to search public auction listings by hand for **3 hours a day**. A daily 5-stage pipeline now does it overnight, and **208 of 210 daily runs** completed.
 - 📈 **Analytics Lead Intern @ Semo** (AI agent startup, 2025): wrote the GA4 event spec from a blank page, built BigQuery reporting behind a Looker Studio dashboard that 3 executives read every week, and tested 4 hypotheses in beta.
+- 🏆 **2nd Place ($1,000), YouCam API Skin AI & eCommerce VTO Hackathon** by Perfect Corp (Nov 2026) with Idala
 - 🏆 **Minister of SMEs and Startups Award**, Korea (2023) · Valedictorian, HUFS (B.B.A., double major in AI Convergence)
 - 🎓 Now at **USC**, M.S. Applied Data Science. Open to **Summer 2027 internships** in Data Engineering, BI, and Analytics.
 
@@ -29,7 +30,7 @@
 | [**CTR Prediction, Toss ML Next Challenge**](https://github.com/nimnusmik/toss-ad-click-prediction) | Team lead of three. **Top 10%** (70th of about 700 teams) on 10M+ rows of ad data with a 1:52 class imbalance: chunked Polars preprocessing and a DCN-v3 model | Python · Polars · PyTorch · W&B | |
 | [**MLOps Movie Recommendation**](https://github.com/nimnusmik/mlops-project-mlops-5) | Team of four. I owned the data layer: TMDB API ingestion, PostgreSQL schema design, and S3 Parquet backups inside an Airflow pipeline on AWS | Airflow · PostgreSQL · MLflow · FastAPI · AWS | |
 | [**Document Image Classification**](https://github.com/nimnusmik/CV_documents_classification_competition) | Team lead. 17-class document classification with an Optuna-tuned ensemble of ConvNeXt, EfficientNet, and Swin. F1 0.97+, **2nd place** | PyTorch · Optuna · TTA | |
-| [**Idala, AI Nail Art Studio**](https://github.com/nimnusmik/E-dal-art) | Live product: photos in, three press-on nail sets out, previewed on a photo of your own hand. 419 automated tests guard the pipeline | Next.js · TypeScript · Postgres · Redis · Meta SAM | [Live](https://nailspo.vercel.app) · [PDF](https://nimnusmik.github.io/case-studies/idala.pdf) · [Video](https://youtu.be/IRWIMqojNBg) |
+| [**Idala, AI Nail Art Studio**](https://github.com/nimnusmik/E-dal-art) | Live product: photos in, three press-on nail sets out, previewed on a photo of your own hand. 🏆 2nd Place, YouCam API Hackathon. 419 automated tests guard the pipeline | Next.js · TypeScript · Postgres · Redis · Meta SAM · YouCam API | [Live](https://nailspo.vercel.app) · [PDF](https://nimnusmik.github.io/case-studies/idala.pdf) · [Video](https://youtu.be/IRWIMqojNBg) |
 
 ## 🛠️ Tech Stack
 
