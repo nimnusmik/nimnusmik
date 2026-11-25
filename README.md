@@ -16,7 +16,7 @@
 
 - ⚙️ **Data Engineer @ Global Vision** (2026): built the company's first ETL. A colleague used to search public auction listings by hand for **3 hours a day**. A daily 5-stage pipeline now does it overnight, and **208 of 210 daily runs** completed.
 - 📈 **Analytics Lead Intern @ Semo** (AI agent startup, 2025): wrote the GA4 event spec from a blank page, built BigQuery reporting behind a Looker Studio dashboard that 3 executives read every week, and tested 4 hypotheses in beta.
-- 🏆 **2nd Place ($1,000), YouCam API Skin AI & eCommerce VTO Hackathon** by Perfect Corp (Nov 2026) with Idala
+- 🏆 **2nd of 440+ projects ($1,000), YouCam API Skin AI & eCommerce VTO Hackathon** by Perfect Corp (Nov 2026) with [Idala](https://devpost.com/software/idala)
 - 🏆 **Minister of SMEs and Startups Award**, Korea (2023) · Valedictorian, HUFS (B.B.A., double major in AI Convergence)
 - 🎓 Now at **USC**, M.S. Applied Data Science. Open to **Summer 2027 internships** in Data Engineering, BI, and Analytics.
 
